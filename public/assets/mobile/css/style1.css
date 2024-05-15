@@ -1,0 +1,20 @@
+/*@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu|Ubuntu');*/
+@font-face{font-family: "Baloo"; src: url("../font/fonts/Baloo/Baloo-Regular.ttf");}
+@font-face{font-family: "Baloo Tammudu"; src: url("../font/fonts/Baloo_Tammudu/BalooTammudu-Regular.ttf");}
+@font-face{font-family: "Cairo"; src: url("../font/fonts/Cairo/Cairo-Black.ttf");}
+@font-face{font-family: "Cuprum"; src: url("../font/fonts/Cuprum/Cuprum-Bold.ttf");}
+@font-face{font-family: "Lobster"; src: url("../font/fonts/Lobster/Lobster-Regular.ttf");}
+@font-face{font-family: "Rajdhani"; src: url("../font/fonts/Rajdhani/Rajdhani-Bold.ttf");}
+@font-face{font-family: "Ubuntu"; src: url("../font/fonts/Ubuntu/Ubuntu-Light.ttf");}
+
+body{ font-family: 'Ubuntu','calibri', sans-serif;  }
+main{min-height: 400px;}
+
+.tit{ 
+  font-family: 'Baloo', sans-serif;   
+  /*font-family: 'Baloo Tammudu', sans-serif; */
+  /*font-family: 'Cairo', sans-serif; */
+  /*font-family: 'Cuprum', sans-serif; */
+  /*font-family: 'Lobster', sans-serif; */
+  /*font-family: 'Rajdhani', sans-serif; */
+}
